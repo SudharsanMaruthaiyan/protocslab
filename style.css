@@ -384,6 +384,11 @@ body{
         background: none;
         color: #0ef;
     }
+
+    #contact{
+        margin-top: 10px;
+        margin-bottom: 60px;
+    }
     
 }
 
