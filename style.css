@@ -387,7 +387,7 @@ body{
 
     #contact{
         margin-top: 10px;
-        margin-bottom: 100px;
+        margin-bottom: 150px;
     }
     
 }
@@ -432,5 +432,8 @@ body{
         font-size: 14px;
         padding-bottom: 5px;
     }
-    
+    #contact{
+        margin-top: 10px;
+        margin-bottom: 180px;
+    }
 }
