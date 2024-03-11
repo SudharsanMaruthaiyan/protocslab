@@ -152,6 +152,7 @@ body{
     margin-right: 5px;
     border-radius: 50px;
     position: relative;
+    box-shadow: 3px 3px 3px blue,3px 3px 3px black;
 }
 .html-range::after{
     content: " ";
@@ -222,6 +223,7 @@ body{
     border-radius: 30px;
     background: #323946;
     border: 2px solid rgb(0, 242, 255);
+    
 }
 
 .card-3::before,
@@ -293,7 +295,6 @@ body{
 /* contact section  */
 #contact{
     padding-top: 74px;
-    
 }
 .bg{
     background: url(contactbg.gif);
@@ -308,7 +309,9 @@ body{
 }
 
 
-
+#zo{
+    border-radius: 30px;
+}
 
 
 
