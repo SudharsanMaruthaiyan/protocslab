@@ -108,6 +108,37 @@ body{
 
 /* skill section  */
 
+#html{
+    font-size: 12rem;
+    color: #ed1c16;
+}
+#css{
+    font-size: 12rem;
+    color: #264de4;
+}
+#java-script{
+    font-size: 12rem;
+    color: #f0db4f;
+}
+#bootstrap{
+    font-size: 12rem;
+    color: #563d7c;
+}
+#react{
+    font-size: 12rem;
+    color: #61DAFB;
+}
+#node-js{
+    font-size: 12rem;
+    color: #339933;
+}
+#mongo-db{
+    font-size: 12rem;
+    color: #47A248;
+}
+
+
+
 .card{
     background-color: #323946;
     color: #fff;
